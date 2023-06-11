@@ -19,9 +19,10 @@ ii) Refer to sumArraysOnGPU-timer.cu, and let block.x = 256. Make a new kernel t
 5.Launch a CUDA kernel to perform vector addition on the device.
 
 ## Program:
-Developed By: Aditya JV
-
+```
+Developed by: Aditya JV
 Reg.No: 212220230002
+```
 
 ### 1. Block.x=1023
 ```
